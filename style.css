@@ -1,0 +1,36 @@
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    height: 100vh;
+}
+.dice{
+    display: inline-block;
+    margin:30px;
+}
+button{
+    width: 20%;
+    height: 40px;
+    font-size: large;
+    background-color: green;
+    border: none;
+}
+body{
+    background-color: #0a3d62;
+}
+h1{
+    margin: 30px;
+    text-shadow: 5px 0 white;
+    font-size: 6rem;
+    color: #f6b93b;
+    font-family: 'Montserrat', sans-serif;
+}
+.img{
+    border-radius: 30px;
+}
+p{
+    font-size: 2.5rem;
+    color: #00b894;
+    text-shadow: 1px 1px white;
+
+}
